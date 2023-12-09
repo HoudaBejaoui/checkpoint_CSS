@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding: 2rem 2rem;
+    background-color: rgba(207, 199, 199, 0.137);
+}
+
+header {
+    background-color: #ccc8c8;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 2px;
+    font-family: Arial, sans-serif;
+}
+
+#nav_header a {
+    padding: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#nav_header a:hover {
+    color: #007BFF;
+}
+
+footer {
+    background-color: #ccc8c8;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 2px;
+}
+
+.section1 {
+    display: inline-block;
+    width: 45%;
+    line-height: 25px;
+}
+
+.profile {
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 3px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.profile a {
+    text-decoration: none;
+    color: rgb(163, 10, 10);
+}
+
+#pic_me { 
+    height:350px;
+    width:317px;
+}
+
+#id_contact a {
+    text-decoration: none;
+    color: black;
+}
+
+.section1 a:hover {
+    font-weight: bold;
+}
+
+.typo {    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 40px;
+}
+
+h1 {
+    text-decoration: underline;
+    color: blue;
+    margin: 15px;
+    font-size: 22px;
+}
+
+.section2 {
+    display: inline-block;
+    width: 54%;
+    line-height: 25px;
+    vertical-align: top;
+}
+
+.title_res h2{
+    margin: 15px;
+    font-style: italic;
+    letter-spacing: 5px;
+}
+
+#id_resume div {
+    background-color: #f0f0f0;
+    margin: 15px;
+}
+
+#id_resume h3 {
+    background-color: #d0d0d0;
+    color: rgb(9, 9, 122);
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#id_services {
+    display: inline;
+    padding: 2rem 2rem;
+}
+
+#sec_serv {
+    text-align: center;
+}
+
+.sec_serv {
+    align-items: center;
+    display: inline-block;
+    width: 25%;
+    border: 1px solid #000;
+    margin: 25px;
+    text-align: center;
+    padding: 2rem;
+}
+
+#pic_service {
+    height:200px;
+    width:170px;
+    margin: 15px;
+}
+
+#sec_serv1 {
+    padding-top: 19px;
+}
